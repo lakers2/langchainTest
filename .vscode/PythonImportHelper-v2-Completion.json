@@ -1,0 +1,1216 @@
+[
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "create_react_agent",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "add_messages",
+        "importPath": "langgraph.graph.message",
+        "description": "langgraph.graph.message",
+        "isExtraImport": true,
+        "detail": "langgraph.graph.message",
+        "documentation": {}
+    },
+    {
+        "label": "add_messages",
+        "importPath": "langgraph.graph.message",
+        "description": "langgraph.graph.message",
+        "isExtraImport": true,
+        "detail": "langgraph.graph.message",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "IPython.display",
+        "description": "IPython.display",
+        "isExtraImport": true,
+        "detail": "IPython.display",
+        "documentation": {}
+    },
+    {
+        "label": "display",
+        "importPath": "IPython.display",
+        "description": "IPython.display",
+        "isExtraImport": true,
+        "detail": "IPython.display",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "TavilySearchResults",
+        "importPath": "langchain_community.tools.tavily_search",
+        "description": "langchain_community.tools.tavily_search",
+        "isExtraImport": true,
+        "detail": "langchain_community.tools.tavily_search",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "ToolMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "BaseChatOpenAI",
+        "importPath": "langchain_openai.chat_models.base",
+        "description": "langchain_openai.chat_models.base",
+        "isExtraImport": true,
+        "detail": "langchain_openai.chat_models.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseChatOpenAI",
+        "importPath": "langchain_openai.chat_models.base",
+        "description": "langchain_openai.chat_models.base",
+        "isExtraImport": true,
+        "detail": "langchain_openai.chat_models.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseChatOpenAI",
+        "importPath": "langchain_openai.chat_models.base",
+        "description": "langchain_openai.chat_models.base",
+        "isExtraImport": true,
+        "detail": "langchain_openai.chat_models.base",
+        "documentation": {}
+    },
+    {
+        "label": "getpass",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "getpass",
+        "description": "getpass",
+        "detail": "getpass",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "trace",
+        "importPath": "langsmith",
+        "description": "langsmith",
+        "isExtraImport": true,
+        "detail": "langsmith",
+        "documentation": {}
+    },
+    {
+        "label": "traceable",
+        "importPath": "langsmith",
+        "description": "langsmith",
+        "isExtraImport": true,
+        "detail": "langsmith",
+        "documentation": {}
+    },
+    {
+        "label": "ConsoleCallbackHandler",
+        "importPath": "langchain_core.tracers",
+        "description": "langchain_core.tracers",
+        "isExtraImport": true,
+        "detail": "langchain_core.tracers",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "RunnableConfig",
+        "importPath": "langchain_core.runnables",
+        "description": "langchain_core.runnables",
+        "isExtraImport": true,
+        "detail": "langchain_core.runnables",
+        "documentation": {}
+    },
+    {
+        "label": "RunnableConfig",
+        "importPath": "langchain_core.runnables",
+        "description": "langchain_core.runnables",
+        "isExtraImport": true,
+        "detail": "langchain_core.runnables",
+        "documentation": {}
+    },
+    {
+        "label": "interrupt",
+        "importPath": "langgraph.types",
+        "description": "langgraph.types",
+        "isExtraImport": true,
+        "detail": "langgraph.types",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "langgraph.types",
+        "description": "langgraph.types",
+        "isExtraImport": true,
+        "detail": "langgraph.types",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "langgraph.types",
+        "description": "langgraph.types",
+        "isExtraImport": true,
+        "detail": "langgraph.types",
+        "documentation": {}
+    },
+    {
+        "label": "interrupt",
+        "importPath": "langgraph.types",
+        "description": "langgraph.types",
+        "isExtraImport": true,
+        "detail": "langgraph.types",
+        "documentation": {}
+    },
+    {
+        "label": "Send",
+        "importPath": "langgraph.constants",
+        "description": "langgraph.constants",
+        "isExtraImport": true,
+        "detail": "langgraph.constants",
+        "documentation": {}
+    },
+    {
+        "label": "ReportStateInput",
+        "importPath": "state",
+        "description": "state",
+        "isExtraImport": true,
+        "detail": "state",
+        "documentation": {}
+    },
+    {
+        "label": "ReportStateOutput",
+        "importPath": "state",
+        "description": "state",
+        "isExtraImport": true,
+        "detail": "state",
+        "documentation": {}
+    },
+    {
+        "label": "Sections",
+        "importPath": "state",
+        "description": "state",
+        "isExtraImport": true,
+        "detail": "state",
+        "documentation": {}
+    },
+    {
+        "label": "ReportState",
+        "importPath": "state",
+        "description": "state",
+        "isExtraImport": true,
+        "detail": "state",
+        "documentation": {}
+    },
+    {
+        "label": "SectionState",
+        "importPath": "state",
+        "description": "state",
+        "isExtraImport": true,
+        "detail": "state",
+        "documentation": {}
+    },
+    {
+        "label": "SectionOutputState",
+        "importPath": "state",
+        "description": "state",
+        "isExtraImport": true,
+        "detail": "state",
+        "documentation": {}
+    },
+    {
+        "label": "Queries",
+        "importPath": "state",
+        "description": "state",
+        "isExtraImport": true,
+        "detail": "state",
+        "documentation": {}
+    },
+    {
+        "label": "Section",
+        "importPath": "state",
+        "description": "state",
+        "isExtraImport": true,
+        "detail": "state",
+        "documentation": {}
+    },
+    {
+        "label": "report_planner_query_writer_instructions",
+        "importPath": "prompts",
+        "description": "prompts",
+        "isExtraImport": true,
+        "detail": "prompts",
+        "documentation": {}
+    },
+    {
+        "label": "report_planner_instructions",
+        "importPath": "prompts",
+        "description": "prompts",
+        "isExtraImport": true,
+        "detail": "prompts",
+        "documentation": {}
+    },
+    {
+        "label": "query_writer_instructions",
+        "importPath": "prompts",
+        "description": "prompts",
+        "isExtraImport": true,
+        "detail": "prompts",
+        "documentation": {}
+    },
+    {
+        "label": "section_writer_instructions",
+        "importPath": "prompts",
+        "description": "prompts",
+        "isExtraImport": true,
+        "detail": "prompts",
+        "documentation": {}
+    },
+    {
+        "label": "final_section_writer_instructions",
+        "importPath": "prompts",
+        "description": "prompts",
+        "isExtraImport": true,
+        "detail": "prompts",
+        "documentation": {}
+    },
+    {
+        "label": "Configuration",
+        "importPath": "configuration",
+        "description": "configuration",
+        "isExtraImport": true,
+        "detail": "configuration",
+        "documentation": {}
+    },
+    {
+        "label": "tavily_search_async",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "deduplicate_and_format_sources",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_sections",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "TavilyClient",
+        "importPath": "tavily",
+        "description": "tavily",
+        "isExtraImport": true,
+        "detail": "tavily",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncTavilyClient",
+        "importPath": "tavily",
+        "description": "tavily",
+        "isExtraImport": true,
+        "detail": "tavily",
+        "documentation": {}
+    },
+    {
+        "label": "MemorySaver",
+        "importPath": "langgraph.checkpoint.memory",
+        "description": "langgraph.checkpoint.memory",
+        "isExtraImport": true,
+        "detail": "langgraph.checkpoint.memory",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_ollama",
+        "description": "langchain_ollama",
+        "isExtraImport": true,
+        "detail": "langchain_ollama",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "Utils",
+        "importPath": "agent_utils",
+        "description": "agent_utils",
+        "isExtraImport": true,
+        "detail": "agent_utils",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "agent",
+        "description": "agent",
+        "isExtraImport": true,
+        "detail": "agent",
+        "documentation": {}
+    },
+    {
+        "label": "BasicToolNode",
+        "kind": 6,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "class BasicToolNode:\n    \"\"\"A node that runs the tools requested in the last AIMessage.\"\"\"\n    def __init__(self, tools: list) -> None:\n        self.tools_by_name = {tool.name: tool for tool in tools}\n    def __call__(self, inputs: dict):\n        if messages := inputs.get(\"messages\", []):\n            message = messages[-1]\n        else:\n            raise ValueError(\"No message found in input\")\n        outputs = []",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "class State(TypedDict):\n    # Messages have the type \"list\". The `add_messages` function\n    # in the annotation defines how this state key should be updated\n    # (in this case, it appends messages to the list, rather than overwriting them)\n    messages: Annotated[list, add_messages]\nload_dotenv()\ntool = TavilySearchResults(max_results=2)\ntools = [tool]\nfrom langsmith import trace\nfrom langchain_core.tracers import ConsoleCallbackHandler",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "chatbot",
+        "kind": 2,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "def chatbot(state: State):\n    return {\"messages\": [client.invoke(state[\"messages\"])]}\ndef stream_graph_updates(user_input: str):\n    for event in graph.stream({\"messages\": [{\"role\": \"user\", \"content\": user_input}]}):\n        for value in event.values():\n            print(\"Assistant:\", value[\"messages\"][-1].content)\ndef route_tools(\n    state: State,\n):\n    \"\"\"",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "stream_graph_updates",
+        "kind": 2,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "def stream_graph_updates(user_input: str):\n    for event in graph.stream({\"messages\": [{\"role\": \"user\", \"content\": user_input}]}):\n        for value in event.values():\n            print(\"Assistant:\", value[\"messages\"][-1].content)\ndef route_tools(\n    state: State,\n):\n    \"\"\"\n    Use in the conditional_edge to route to the ToolNode if the last message\n    has tool calls. Otherwise, route to the end.",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "route_tools",
+        "kind": 2,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "def route_tools(\n    state: State,\n):\n    \"\"\"\n    Use in the conditional_edge to route to the ToolNode if the last message\n    has tool calls. Otherwise, route to the end.\n    \"\"\"\n    if isinstance(state, list):\n        ai_message = state[-1]\n    elif messages := state.get(\"messages\", []):",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "kind": 5,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "tool = TavilySearchResults(max_results=2)\ntools = [tool]\nfrom langsmith import trace\nfrom langchain_core.tracers import ConsoleCallbackHandler\nos.environ[\"LANGCHAIN_TRACING_V2\"] = \"true\"\nif not os.environ.get(\"TAVILY_API_KEY\"):\n    os.environ[\"TAVILY_API_KEY\"] = os.getenv(\"DEEPSEEK_API_KEY\")\nclient = BaseChatOpenAI(\n    model=\"deepseek-ai/DeepSeek-V3\",\n    temperature=0,",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "tools = [tool]\nfrom langsmith import trace\nfrom langchain_core.tracers import ConsoleCallbackHandler\nos.environ[\"LANGCHAIN_TRACING_V2\"] = \"true\"\nif not os.environ.get(\"TAVILY_API_KEY\"):\n    os.environ[\"TAVILY_API_KEY\"] = os.getenv(\"DEEPSEEK_API_KEY\")\nclient = BaseChatOpenAI(\n    model=\"deepseek-ai/DeepSeek-V3\",\n    temperature=0,\n    api_key=os.getenv(\"SILICON_FLOW_API_KEY\"),",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"LANGCHAIN_TRACING_V2\"]",
+        "kind": 5,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "os.environ[\"LANGCHAIN_TRACING_V2\"] = \"true\"\nif not os.environ.get(\"TAVILY_API_KEY\"):\n    os.environ[\"TAVILY_API_KEY\"] = os.getenv(\"DEEPSEEK_API_KEY\")\nclient = BaseChatOpenAI(\n    model=\"deepseek-ai/DeepSeek-V3\",\n    temperature=0,\n    api_key=os.getenv(\"SILICON_FLOW_API_KEY\"),\n    base_url=\"https://api.siliconflow.cn/v1\",\n).bind_tools(tools)\ngraph_builder = StateGraph(State)",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "client = BaseChatOpenAI(\n    model=\"deepseek-ai/DeepSeek-V3\",\n    temperature=0,\n    api_key=os.getenv(\"SILICON_FLOW_API_KEY\"),\n    base_url=\"https://api.siliconflow.cn/v1\",\n).bind_tools(tools)\ngraph_builder = StateGraph(State)\ndef chatbot(state: State):\n    return {\"messages\": [client.invoke(state[\"messages\"])]}\ndef stream_graph_updates(user_input: str):",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "graph_builder",
+        "kind": 5,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "graph_builder = StateGraph(State)\ndef chatbot(state: State):\n    return {\"messages\": [client.invoke(state[\"messages\"])]}\ndef stream_graph_updates(user_input: str):\n    for event in graph.stream({\"messages\": [{\"role\": \"user\", \"content\": user_input}]}):\n        for value in event.values():\n            print(\"Assistant:\", value[\"messages\"][-1].content)\ndef route_tools(\n    state: State,\n):",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "tool_node",
+        "kind": 5,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "tool_node = BasicToolNode(tools=[tool])\ngraph_builder.add_node(\"tools\", tool_node)\ngraph_builder.add_edge(START, \"chatbot\")\ngraph_builder.add_edge(\"chatbot\", END)\ngraph_builder.add_edge(\"tools\", \"chatbot\")\ngraph = graph_builder.compile()\n# The `tools_condition` function returns \"tools\" if the chatbot asks to use a tool, and \"END\" if\n# it is fine directly responding. This conditional routing defines the main agent loop.\ngraph_builder.add_conditional_edges(\n    \"chatbot\",",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "langgraph.chatbot.chatbot",
+        "description": "langgraph.chatbot.chatbot",
+        "peekOfCode": "graph = graph_builder.compile()\n# The `tools_condition` function returns \"tools\" if the chatbot asks to use a tool, and \"END\" if\n# it is fine directly responding. This conditional routing defines the main agent loop.\ngraph_builder.add_conditional_edges(\n    \"chatbot\",\n    route_tools,\n    # The following dictionary lets you tell the graph to interpret the condition's outputs as a specific node\n    # It defaults to the identity function, but if you\n    # want to use a node named something else apart from \"tools\",\n    # You can update the value of the dictionary to something else",
+        "detail": "langgraph.chatbot.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "Configuration",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.configuration",
+        "description": "langgraph.deepResearch.configuration",
+        "peekOfCode": "class Configuration:\n    \"\"\"The configurable fields for the chatbot.\"\"\"\n    report_structure: str = DEFAULT_REPORT_STRUCTURE\n    number_of_queries: int = 2 \n    tavily_topic: str = \"general\"\n    tavily_days: str = None\n    planner_model: str = \"deepseek-ai/DeepSeek-V3\"\n    writer_model: str = \"deepseek-ai/DeepSeek-V3\"\n    @classmethod\n    def from_runnable_config(",
+        "detail": "langgraph.deepResearch.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_REPORT_STRUCTURE",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.configuration",
+        "description": "langgraph.deepResearch.configuration",
+        "peekOfCode": "DEFAULT_REPORT_STRUCTURE = \"\"\"The report structure should focus on breaking-down the user-provided topic:\n1. Introduction (no research needed)\n   - Brief overview of the topic area\n2. Main Body Sections:\n   - Each section should focus on a sub-topic of the user-provided topic\n   - Include any key concepts and definitions\n   - Provide real-world examples or case studies where applicable\n3. Conclusion\n   - Aim for 1 structural element (either a list of table) that distills the main body sections \n   - Provide a concise summary of the report\"\"\"",
+        "detail": "langgraph.deepResearch.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "human_feedback",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "def human_feedback(state: ReportState, config: RunnableConfig) -> Command[Literal[\"generate_report_plan\",\"build_section_with_web_research\"]]:\n    \"\"\" Get feedback on the report plan \"\"\"\n    # Get sections\n    sections = state['sections']\n    sections_str = \"\\n\\n\".join(\n        f\"Section: {section.name}\\n\"\n        f\"Description: {section.description}\\n\"\n        f\"Research needed: {'Yes' if section.research else 'No'}\\n\"\n        for section in sections\n    )",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "generate_queries",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "def generate_queries(state: SectionState, config: RunnableConfig):\n    \"\"\" Generate search queries for a report section \"\"\"\n    # Get state \n    print(state)\n    section = state[\"section\"]\n    # Get configuration\n    configurable = Configuration.from_runnable_config(config)\n    number_of_queries = configurable.number_of_queries\n    # Generate queries \n    structured_llm = writer_model.with_structured_output(Queries)",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "write_section",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "def write_section(state: SectionState):\n    \"\"\" Write a section of the report \"\"\"\n    # Get state \n    section = state[\"section\"]\n    source_str = state[\"source_str\"]\n    # Format system instructions\n    system_instructions = section_writer_instructions.format(section_title=section.name, section_topic=section.description, context=source_str)\n    # Generate section  \n    section_content = writer_model.invoke([SystemMessage(content=system_instructions)]+[HumanMessage(content=\"Generate a report section based on the provided sources.\")])\n    # Write content to the section object  ",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "initiate_section_writing",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "def initiate_section_writing(state: ReportState):\n    \"\"\" This is the \"map\" step when we kick off web research for some sections of the report \"\"\"    \n    # Get feedback\n    feedback = state.get(\"feedback_on_report_plan\", None)\n    # Feedback is by default None and accept_report_plan is by default False\n    # If a user hits \"Continue\" in Studio, we want to proceed with the report plan\n    # If a user enters feedback_on_report_plan in Studio, we want to regenerate the report plan\n    # Once a user enters feedback_on_report_plan, they need to flip accept_report_plan to True to proceed\n    if not state.get(\"accept_report_plan\") and feedback:\n        return \"generate_report_plan\"",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "write_final_sections",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "def write_final_sections(state: SectionState):\n    \"\"\" Write final sections of the report, which do not require web search and use the completed sections as context \"\"\"\n    # Get state \n    section = state[\"section\"]\n    completed_report_sections = state[\"report_sections_from_research\"]\n    # Format system instructions\n    system_instructions = final_section_writer_instructions.format(section_title=section.name, section_topic=section.description, context=completed_report_sections)\n    # Generate section  \n    section_content = writer_model.invoke([SystemMessage(content=system_instructions)]+[HumanMessage(content=\"Generate a report section based on the provided sources.\")])\n    # Write content to section ",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "gather_completed_sections",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "def gather_completed_sections(state: ReportState):\n    \"\"\" Gather completed sections from research and format them as context for writing the final sections \"\"\"    \n    # List of completed sections\n    completed_sections = state[\"completed_sections\"]\n    # Format completed section to str to use as context for final sections\n    completed_report_sections = format_sections(completed_sections)\n    return {\"report_sections_from_research\": completed_report_sections}\ndef initiate_final_section_writing(state: ReportState):\n    \"\"\" Write any final sections using the Send API to parallelize the process \"\"\"    \n    # Kick off section writing in parallel via Send() API for any sections that do not require research",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "initiate_final_section_writing",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "def initiate_final_section_writing(state: ReportState):\n    \"\"\" Write any final sections using the Send API to parallelize the process \"\"\"    \n    # Kick off section writing in parallel via Send() API for any sections that do not require research\n    return [\n        Send(\"write_final_sections\", {\"section\": s, \"report_sections_from_research\": state[\"report_sections_from_research\"]}) \n        for s in state[\"sections\"] \n        if not s.research\n    ]\ndef compile_final_report(state: ReportState):\n    \"\"\" Compile the final report \"\"\"    ",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "compile_final_report",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "def compile_final_report(state: ReportState):\n    \"\"\" Compile the final report \"\"\"    \n    # Get sections\n    sections = state[\"sections\"]\n    completed_sections = {s.name: s.content for s in state[\"completed_sections\"]}\n    # Update sections with completed content while maintaining original order\n    for section in sections:\n        section.content = completed_sections[section.name]\n    # Compile final report\n    all_sections = \"\\n\\n\".join([s.content for s in sections])",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "planner_model",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "planner_model = BaseChatOpenAI(\n    model=\"deepseek-chat\",\n    temperature=0,\n    api_key=os.getenv(\"DEEPSEEK_API_KEY\"),\n    base_url=\"https://api.deepseek.com\",\n    request_timeout=180\n)\nwriter_model = BaseChatOpenAI(\n    model=\"deepseek-chat\",\n    temperature=0,",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "writer_model",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "writer_model = BaseChatOpenAI(\n    model=\"deepseek-chat\",\n    temperature=0,\n    api_key=os.getenv(\"DEEPSEEK_API_KEY\"),\n    base_url=\"https://api.deepseek.com\",\n    request_timeout=180\n)\n# Nodes\nasync def generate_report_plan(state: ReportState, config: RunnableConfig):\n    \"\"\" Generate the report plan \"\"\"",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "section_builder",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "section_builder = StateGraph(SectionState, output=SectionOutputState)\nsection_builder.add_node(\"generate_queries\", generate_queries)\nsection_builder.add_node(\"search_web\", search_web)\nsection_builder.add_node(\"write_section\", write_section)\n# Add edges\nsection_builder.add_edge(START, \"generate_queries\")\nsection_builder.add_edge(\"generate_queries\", \"search_web\")\nsection_builder.add_edge(\"search_web\", \"write_section\")\nsection_builder.add_edge(\"write_section\", END)\n# Outer graph -- ",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "builder = StateGraph(ReportState, input=ReportStateInput, output=ReportStateOutput, config_schema=Configuration)\nbuilder.add_node(\"generate_report_plan\", generate_report_plan)\nbuilder.add_node(\"human_feedback\", human_feedback)\nbuilder.add_node(\"build_section_with_web_research\", section_builder.compile())\nbuilder.add_node(\"gather_completed_sections\", gather_completed_sections)\nbuilder.add_node(\"write_final_sections\", write_final_sections)\nbuilder.add_node(\"compile_final_report\", compile_final_report)\n# Add edges\nbuilder.add_edge(START, \"generate_report_plan\")\nbuilder.add_edge(\"generate_report_plan\", \"human_feedback\")",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "graph = builder.compile(interrupt_before=['human_feedback'])\ngraph = builder.compile()",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.graph",
+        "description": "langgraph.deepResearch.graph",
+        "peekOfCode": "graph = builder.compile()",
+        "detail": "langgraph.deepResearch.graph",
+        "documentation": {}
+    },
+    {
+        "label": "section_writer_instructions",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.prompts",
+        "description": "langgraph.deepResearch.prompts",
+        "peekOfCode": "section_writer_instructions = \"\"\"You are an expert technical writer crafting one section of a technical report.\nTopic for this section:\n{section_topic}\nGuidelines for writing:\n1. Technical Accuracy:\n- Include specific version numbers\n- Reference concrete metrics/benchmarks\n- Cite official documentation\n- Use technical terminology precisely\n2. Length and Style:",
+        "detail": "langgraph.deepResearch.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "Section",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class Section(BaseModel):\n    name: str = Field(\n        description = \"Name for the section report.\"\n    )\n    description: str = Field(\n        description = \"Brief overview of the main topics and concepts to be covered in this section.\"\n    )\n    content: str = Field(\n        description = \"Whether to perform web research for this section of the report.\"\n    )",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "Sections",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class Sections(BaseModel):\n    sections: List[Section] = Field(\n        description = \"A list of sections for the report.\"\n    )\nclass SerachQuery(BaseModel):\n    search_query: str = Field(\n        None,\n        description = \"The search query to be used for the web research.\"\n    )\nclass Queries(BaseModel):",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "SerachQuery",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class SerachQuery(BaseModel):\n    search_query: str = Field(\n        None,\n        description = \"The search query to be used for the web research.\"\n    )\nclass Queries(BaseModel):\n    queries: List[SerachQuery] = Field(\n        description=\"List of search queries.\"\n    )\nclass ReportStateInput(TypedDict):",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "Queries",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class Queries(BaseModel):\n    queries: List[SerachQuery] = Field(\n        description=\"List of search queries.\"\n    )\nclass ReportStateInput(TypedDict):\n    topic: str\n    feedback_on_report_plan: str\n    accept_report_plan: bool\nclass ReportStateOutput(TypedDict):\n    final_report: str",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "ReportStateInput",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class ReportStateInput(TypedDict):\n    topic: str\n    feedback_on_report_plan: str\n    accept_report_plan: bool\nclass ReportStateOutput(TypedDict):\n    final_report: str\nclass ReportState(TypedDict):\n    topic: str\n    feedback_on_report_plan: str\n    accept_report_plan: bool",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "ReportStateOutput",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class ReportStateOutput(TypedDict):\n    final_report: str\nclass ReportState(TypedDict):\n    topic: str\n    feedback_on_report_plan: str\n    accept_report_plan: bool\n    queries: List[SerachQuery]\n    sections: List[Section]\n    completed_sections: Annotated[list, operator.add]\n    final_report: str",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "ReportState",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class ReportState(TypedDict):\n    topic: str\n    feedback_on_report_plan: str\n    accept_report_plan: bool\n    queries: List[SerachQuery]\n    sections: List[Section]\n    completed_sections: Annotated[list, operator.add]\n    final_report: str\nclass SectionState(TypedDict):\n    section: Section",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "SectionState",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class SectionState(TypedDict):\n    section: Section\n    completed_sections: Annotated[list, operator.add]\n    search_queries: list[SerachQuery]\n    source_str: str\n    report_sections_from_research: str\nclass SectionOutputState(TypedDict):\n    completed_sections: Annotated[list, operator.add]",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "SectionOutputState",
+        "kind": 6,
+        "importPath": "langgraph.deepResearch.state",
+        "description": "langgraph.deepResearch.state",
+        "peekOfCode": "class SectionOutputState(TypedDict):\n    completed_sections: Annotated[list, operator.add]",
+        "detail": "langgraph.deepResearch.state",
+        "documentation": {}
+    },
+    {
+        "label": "deduplicate_and_format_sources",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.utils",
+        "description": "langgraph.deepResearch.utils",
+        "peekOfCode": "def deduplicate_and_format_sources(search_response, max_tokens_per_source, include_raw_content=True):\n    \"\"\"\n    Takes either a single search response or list of responses from Tavily API and formats them.\n    Limits the raw_content to approximately max_tokens_per_source.\n    include_raw_content specifies whether to include the raw_content from Tavily in the formatted string.\n    Args:\n        search_response: Either:\n            - A dict with a 'results' key containing a list of search results\n            - A list of dicts, each containing search results\n    Returns:",
+        "detail": "langgraph.deepResearch.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_sections",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.utils",
+        "description": "langgraph.deepResearch.utils",
+        "peekOfCode": "def format_sections(sections: list[Section]) -> str:\n    \"\"\" Format a list of sections into a string \"\"\"\n    formatted_str = \"\"\n    for idx, section in enumerate(sections, 1):\n        formatted_str += f\"\"\"\n        {'='*60}\n        Section {idx}: {section.name}\n        {'='*60}\n        Description:\n        {section.description}",
+        "detail": "langgraph.deepResearch.utils",
+        "documentation": {}
+    },
+    {
+        "label": "tavily_search",
+        "kind": 2,
+        "importPath": "langgraph.deepResearch.utils",
+        "description": "langgraph.deepResearch.utils",
+        "peekOfCode": "def tavily_search(query):\n    \"\"\" Search the web using the Tavily API.\n    Args:\n        query (str): The search query to execute\n    Returns:\n        dict: Tavily search response containing:\n            - results (list): List of search result dictionaries, each containing:\n                - title (str): Title of the search result\n                - url (str): URL of the search result\n                - content (str): Snippet/summary of the content",
+        "detail": "langgraph.deepResearch.utils",
+        "documentation": {}
+    },
+    {
+        "label": "tavily_client",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.utils",
+        "description": "langgraph.deepResearch.utils",
+        "peekOfCode": "tavily_client = TavilyClient()\nasync_tavily_client = AsyncTavilyClient()\ndef deduplicate_and_format_sources(search_response, max_tokens_per_source, include_raw_content=True):\n    \"\"\"\n    Takes either a single search response or list of responses from Tavily API and formats them.\n    Limits the raw_content to approximately max_tokens_per_source.\n    include_raw_content specifies whether to include the raw_content from Tavily in the formatted string.\n    Args:\n        search_response: Either:\n            - A dict with a 'results' key containing a list of search results",
+        "detail": "langgraph.deepResearch.utils",
+        "documentation": {}
+    },
+    {
+        "label": "async_tavily_client",
+        "kind": 5,
+        "importPath": "langgraph.deepResearch.utils",
+        "description": "langgraph.deepResearch.utils",
+        "peekOfCode": "async_tavily_client = AsyncTavilyClient()\ndef deduplicate_and_format_sources(search_response, max_tokens_per_source, include_raw_content=True):\n    \"\"\"\n    Takes either a single search response or list of responses from Tavily API and formats them.\n    Limits the raw_content to approximately max_tokens_per_source.\n    include_raw_content specifies whether to include the raw_content from Tavily in the formatted string.\n    Args:\n        search_response: Either:\n            - A dict with a 'results' key containing a list of search results\n            - A list of dicts, each containing search results",
+        "detail": "langgraph.deepResearch.utils",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "class State(TypedDict):\n    messages: Annotated[list, add_messages]\ngraph_builder = StateGraph(State)\nllm = BaseChatOpenAI(\n    model=\"deepseek-chat\",\n    temperature=0,\n    api_key=os.getenv(\"DEEPSEEK_API_KEY\"),\n    base_url=\"https://api.deepseek.com\",\n    request_timeout=180,\n)",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "chatbot",
+        "kind": 2,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "def chatbot(state: State):\n    return {\"messages\": [llm.invoke(state[\"messages\"])]}\n@tool\ndef human_assistance(query: str) -> str:\n    \"\"\"Request assistance from a human.\"\"\"\n    human_response = interrupt({\"query\": query})\n    return human_response[\"data\"]\ngraph_builder.add_node(\"chatbot\", chatbot)\ngraph_builder.add_edge(START, \"chatbot\")\ngraph_builder.add_edge(\"chatbot\", END)",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "human_assistance",
+        "kind": 2,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "def human_assistance(query: str) -> str:\n    \"\"\"Request assistance from a human.\"\"\"\n    human_response = interrupt({\"query\": query})\n    return human_response[\"data\"]\ngraph_builder.add_node(\"chatbot\", chatbot)\ngraph_builder.add_edge(START, \"chatbot\")\ngraph_builder.add_edge(\"chatbot\", END)\nconfig = {\"configurable\": {\"thread_id\": \"1\"}}\nmemory = MemorySaver()\ngraph = graph_builder.compile(checkpointer=memory)",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "stream_graph_updates",
+        "kind": 2,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "def stream_graph_updates(user_input: str):\n    for event in graph.stream(\n        {\"messages\": [{\"role\": \"user\", \"content\": user_input}]},\n        config\n    ):\n        for value in event.values():\n            print(\"Assistant:\", value[\"messages\"][-1].content)\nwhile True:\n    try:\n        user_input = input(\"User: \")",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "graph_builder",
+        "kind": 5,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "graph_builder = StateGraph(State)\nllm = BaseChatOpenAI(\n    model=\"deepseek-chat\",\n    temperature=0,\n    api_key=os.getenv(\"DEEPSEEK_API_KEY\"),\n    base_url=\"https://api.deepseek.com\",\n    request_timeout=180,\n)\ndef chatbot(state: State):\n    return {\"messages\": [llm.invoke(state[\"messages\"])]}",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "llm = BaseChatOpenAI(\n    model=\"deepseek-chat\",\n    temperature=0,\n    api_key=os.getenv(\"DEEPSEEK_API_KEY\"),\n    base_url=\"https://api.deepseek.com\",\n    request_timeout=180,\n)\ndef chatbot(state: State):\n    return {\"messages\": [llm.invoke(state[\"messages\"])]}\n@tool",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "config = {\"configurable\": {\"thread_id\": \"1\"}}\nmemory = MemorySaver()\ngraph = graph_builder.compile(checkpointer=memory)\ndef stream_graph_updates(user_input: str):\n    for event in graph.stream(\n        {\"messages\": [{\"role\": \"user\", \"content\": user_input}]},\n        config\n    ):\n        for value in event.values():\n            print(\"Assistant:\", value[\"messages\"][-1].content)",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "memory",
+        "kind": 5,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "memory = MemorySaver()\ngraph = graph_builder.compile(checkpointer=memory)\ndef stream_graph_updates(user_input: str):\n    for event in graph.stream(\n        {\"messages\": [{\"role\": \"user\", \"content\": user_input}]},\n        config\n    ):\n        for value in event.values():\n            print(\"Assistant:\", value[\"messages\"][-1].content)\nwhile True:",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "langgraph.demo.paperWriter",
+        "description": "langgraph.demo.paperWriter",
+        "peekOfCode": "graph = graph_builder.compile(checkpointer=memory)\ndef stream_graph_updates(user_input: str):\n    for event in graph.stream(\n        {\"messages\": [{\"role\": \"user\", \"content\": user_input}]},\n        config\n    ):\n        for value in event.values():\n            print(\"Assistant:\", value[\"messages\"][-1].content)\nwhile True:\n    try:",
+        "detail": "langgraph.demo.paperWriter",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "kind": 6,
+        "importPath": "agent",
+        "description": "agent",
+        "peekOfCode": "class Agent:\n    def __init__(self, client, system, model=\"deepseek-chat\") -> None:\n        self.client = client\n        self.system = system\n        self.model = model\n        self.messages: list = []\n        if self.system:\n            self.messages.append({\"role\": \"system\", \"content\": self.system})\n    def __call__(self, message):\n        if message:",
+        "detail": "agent",
+        "documentation": {}
+    },
+    {
+        "label": "Utils",
+        "kind": 6,
+        "importPath": "agent_utils",
+        "description": "agent_utils",
+        "peekOfCode": "class Utils:\n    # Static class variable for system prompt\n    system_prompt = \"\"\"\n    You run in a loop of Thought, Action, PAUSE, Observation.\n    At the end of the loop you output an Answer\n    Use Thought to describe your thoughts about the question you have been asked.\n    Use Action to run one of the actions available to you - then return PAUSE.\n    Observation will be the result of running those actions.\n    Your available actions are:\n    calculate:",
+        "detail": "agent_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ChatAssistant",
+        "kind": 6,
+        "importPath": "chat_assistant",
+        "description": "chat_assistant",
+        "peekOfCode": "class ChatAssistant:\n    def __init__(self, model_name=\"llama3.2:latest\"):\n        # Initialize Ollama chat model\n        self.chat = ChatOllama(\n            model=model_name,\n            temperature=0.7\n        )\n        # Initialize conversation memory\n        self.memory = ConversationBufferMemory(\n            return_messages=True,",
+        "detail": "chat_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "convert_urls_to_json",
+        "kind": 2,
+        "importPath": "url_to_json",
+        "description": "url_to_json",
+        "peekOfCode": "def convert_urls_to_json():\n    try:\n        # Read URLs from file\n        with open('urls.txt', 'r', encoding='utf-8') as file:\n            # Read all lines and process each line\n            urls = []\n            for line in file:\n                # Remove whitespace and quotes\n                line = line.strip()\n                # Skip empty lines and brackets",
+        "detail": "url_to_json",
+        "documentation": {}
+    }
+]

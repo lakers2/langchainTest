@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: report_maistro
+Version: 0.0.1
+Summary: Planning, research, and report generation.
+Author: Lance Martin
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: langgraph>=0.2.55
+Requires-Dist: langchain-community>=0.3.9
+Requires-Dist: langchain-openai>=0.3.3
+Requires-Dist: langchain-anthropic>=0.3.3
+Requires-Dist: tavily-python>=0.5.0
+Provides-Extra: dev
+Requires-Dist: mypy>=1.11.1; extra == "dev"
+Requires-Dist: ruff>=0.6.1; extra == "dev"

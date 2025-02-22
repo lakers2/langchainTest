@@ -1,0 +1,88 @@
+@startuml
+interface FileCacheFactory {
+        + FileCache get(DiskCacheConfig diskCacheConfig)
+}
+
+class DiskStorageCacheFactory implements FileCacheFactory {
+        + FileCache get(DiskCacheConfig diskCacheConfig)
+}
+
+class BufferedDiskCache
+
+interface FileCache {
+        + boolean isEnabled()
+        + BinaryResource getResource(CacheKey key)
+        + boolean hasKeySync(CacheKey key)
+        + boolean hasKey(CacheKey key)
+        + boolean probe(CacheKey key)
+        + BinaryResource insert(CacheKey key, WriterCallback writer) throws IOException
+        + void remove(CacheKey key)
+        + long getSize()
+        + long getCount()
+        + long clearOldEntries(long cacheExpirationMs)
+        + void clearAll()
+        + DiskStorage.DiskDumpInfo getDumpInfo() throws IOException
+
+}
+
+class DiskStorageCache extends FileCache
+
+class ImagePipelineConfig
+
+class ImagePipelineFactory {
+        + FileCache getMainFileCache()
+        + BufferedDiskCache getMainBufferedDiskCache()
+        + FileCache getSmallFileCache()
+        + BufferedDiskCache getSmallBufferedDiskCache()
+        - ProducerFactory getProducerFactory()
+}
+
+class ImagePipeline {
+        + void evictFromDiskCache(final ImageRequest imageRequest)
+        + void clearDiskCaches()
+        + void clearDiskCachesAsync(@Nonnull DiskCacheClearedCallback listener)
+        + long getUsedDiskCacheSize()
+        + boolean isInDiskCacheSync(final ImageRequest imageRequest)
+        + DataSource<Boolean> isInDiskCache(final ImageRequest imageRequest)
+
+}
+
+class DiskCacheReadProducer implements Producer
+class EncodedProbeProducer implements Producer
+class DiskCacheWriteProducer implements Producer
+class BitmapProbeProducer implements Producer
+class ProducerFactory
+
+interface MultiMainDiskCachesManager {
+        + void initialize()
+        + BufferedDiskCache add(int index, Disk)
+        + BufferedDiskCache get(int index)
+        + boolean contains(int index)
+        + Map<int index, BufferedDiskCache cache> getMultiMainDiskCaches()
+        + BufferedDiskCache distributeCacheKeyToDiskCache(CacheKey key, int diskCount)
+}
+
+class MultiMainDiskCachesManagerImpl implements MultiMainDiskCachesManager {
+
+}
+
+DiskCacheReadProducer "1" *--> "n" BufferedDiskCache
+EncodedProbeProducer "1" *--> "n" BufferedDiskCache
+DiskCacheWriteProducer "1" *--> "n" BufferedDiskCache
+BitmapProbeProducer "1" *--> "n" BufferedDiskCache
+
+DiskCacheReadProducer "1" *--> "1" MultiMainDiskCachesManager
+EncodedProbeProducer "1" *--> "1" MultiMainDiskCachesManager
+DiskCacheWriteProducer "1" *--> "1" MultiMainDiskCachesManager
+BitmapProbeProducer "1" *--> "1" MultiMainDiskCachesManager
+
+FileCache --> FileCacheFactory
+BufferedDiskCache "1" *--> "1" FileCache
+ImagePipeline --> ImagePipelineFactory
+ImagePipeline "1" *--> "2" BufferedDiskCache
+ImagePipeline "1" *--> "1" MultiMainDiskCachesManager
+MultiMainDiskCachesManager "1" *--> "n" BufferedDiskCache
+ImagePipelineConfig "1" o--> "1" FileCacheFactory
+ImagePipelineFactory "1" *--> "1" ImagePipelineConfig
+ImagePipelineFactory "1" *--> "1" ProducerFactory
+@enduml
